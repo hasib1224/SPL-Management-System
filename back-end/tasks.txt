@@ -1,0 +1,119 @@
+1.  Create SPL for new Academic Year [v.3]
+    Add spl manager [v.3]
+    Remove spl manager [v.3]
+    Assign students to spl 
+    Finalize spl 
+
+2.  Add teacher [v.3]
+    Update Teacher Account [v.3]
+
+3.  Add student [v.3]
+    Update Student account by student [v.3]
+    Update Student account by admin (roll, reg etc) [v.3]
+    
+4. Change password 
+
+5. Authentication
+
+6. Authorizations
+
+7. Upload Image [done v.2]
+
+8. Separate logic for email update [verification by mailing etc]
+
+7. Create spl committee for each spl [v.3]
+    add committee head [v.3]
+    remove committee head [v.3]
+    add committee member [done-v.3]
+    remove committee member [done-v.3]
+
+8. Assign  students corresponding spl (selecting manually) [done-v.3]
+   8.1 remove student from current spl [v.3]
+
+// create team by committee head/member [like ICPC coach]
+5. Create team for 3rd year student [v.3]
+    5.2 update team [done-v.3]
+    5.3 add/remove member [by committee head/member] [done-v.3]
+
+6. Supervisor Allocation
+    1. spl-1 randomization [done - v.3]
+    2. spl-2
+        2.1 team request by 3rd year student [done v.3]
+        2.2 accept request [done v.3]
+        2.4 manually by committee/member [done v.3]
+    3. spl-3
+        3.1 student request by 4th year student [done v.3]
+        3.2 accept request [done v.3]
+        3.4 manually by committee/member [done v.3]
+
+    4. remove supervisor option [done v.3]
+    5. remove for team [do later]
+
+
+7.0 Create a presentation event [done-v.3]
+    add presentation evaluator [v.3]
+    remove presentation evaluator [v.3]
+
+7. Marking 
+    7.2 presentation mark [done-v.3]
+        update presentation mark [done-v.3]
+    7.3 Supervisor mark [done-v.3]
+        update Supervisor mark [done-v.3]
+    7.4 coding mark [done-v.3]
+        update coding mark [done-v.3]
+    7.5 continuous mark [done-v.3]
+        7.2.1 update continuous mark [done-v.3]
+
+8. Selection of interested fields
+    8.1 Selection done [done-v.1]
+
+8. Grade-sheet generator
+
+
+9. notification
+
+10. upgrade students to next year
+
+
+Finalize a Running SPL by splName.....next
+
+/api/check-auth-status
+// student/:studentId [for amin/teacher/other student]
+
+// users/admin/:userId
+// users/student/:userId
+// users/teacher/:userId
+
+
+// make common validator for teacher/student or other inside related module validator
+
+
+How to exclude some attribute in sequelize query
+
+check active user or not in all queries
+
+add spl manager
+
+// add userType in query while check teacher or not, student or not
+
+// add committee member also while creating committee
+
+
+[DAO => Learn]
+
+// USE ids to specify the data [add/remove] [add spl manager, add student to spl etc]
+[add validation handler to the validator chain]
+
+[add condition for same supervisor cannot be multiple time]
+
+//   
+[in case of form validation make database queries in validators]
+[
+    validate format of all attributes
+
+    do database query checking if condition
+]
+
+
+// see all javascript code line number
+$ cloc --exclude-dir=node_modules --include-lang=JavaScript .

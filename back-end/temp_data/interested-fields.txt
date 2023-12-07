@@ -1,0 +1,58 @@
+Artificial Intelligence
+Machine Learning
+Data Science
+Computer Vision
+Natural Language Processing (NLP)
+Cloud Computing
+Big Data Analytics
+Cybersecurity
+Internet of Things (IoT)
+Blockchain
+Virtual Reality (VR)
+Augmented Reality (AR)
+Game Development
+Web Development
+Mobile App Development
+Data Mining
+Image Processing
+Speech Recognition
+Deep Learning
+Human-Computer Interaction (HCI)
+Distributed Systems
+Computer Networks
+Social Networks
+Multimedia Systems
+Operating Systems
+Computer Graphics
+Parallel Computing
+Embedded Systems
+Software Engineering
+Database Management Systems
+Compiler Design
+Algorithms and Data Structures
+Computational Mathematics
+Artificial General Intelligence (AGI)
+Fuzzy Logic
+Genetic Algorithms
+Neural Networks
+Support Vector Machines
+Random Forests
+Ensemble Learning
+Reinforcement Learning
+Active Learning
+Transfer Learning
+Semi-Supervised Learning
+Unsupervised Learning
+Cloud Computing Security
+Cyber Forensics
+Cryptography
+Malware Analysis
+Network Security
+Secure Software Development
+Security Testing
+Vulnerability Assessment and Management
+Penetration Testing
+IoT Security
+Blockchain Security
+Cloud Security
+Privacy-Preserving Data Mining

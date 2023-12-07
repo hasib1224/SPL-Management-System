@@ -1,0 +1,164 @@
+{
+    "students": [
+        {
+            "email": "1301@iit.du.ac.bd",
+            "rollNo": "BSSE-1301",
+            "registrationNo": "1301000000",
+            "batch": "13",
+            "session": "2020-21",
+            "curriculumYear": "2nd"
+        },
+        {
+            "email": "1302@iit.du.ac.bd",
+            "rollNo": "BSSE-1302",
+            "registrationNo": "1302000000",
+            "batch": "13",
+            "session": "2020-21",
+            "curriculumYear": "2nd"
+        },
+        {
+            "email": "1303@iit.du.ac.bd",
+            "rollNo": "BSSE-1303",
+            "registrationNo": "1303000000",
+            "batch": "13",
+            "session": "2020-21",
+            "curriculumYear": "2nd"
+        },
+        {
+            "email": "1304@iit.du.ac.bd",
+            "rollNo": "BSSE-1304",
+            "registrationNo": "1304000000",
+            "batch": "13",
+            "session": "2020-21",
+            "curriculumYear": "2nd"
+        },
+        {
+            "email": "1305@iit.du.ac.bd",
+            "rollNo": "BSSE-1305",
+            "registrationNo": "1305000000",
+            "batch": "13",
+            "session": "2020-21",
+            "curriculumYear": "2nd"
+        },
+        {
+            "email": "1306@iit.du.ac.bd",
+            "rollNo": "BSSE-1306",
+            "registrationNo": "1306000000",
+            "batch": "13",
+            "session": "2020-21",
+            "curriculumYear": "2nd"
+        },
+        {
+            "email": "1307@iit.du.ac.bd",
+            "rollNo": "BSSE-1307",
+            "registrationNo": "1307000000",
+            "batch": "13",
+            "session": "2020-21",
+            "curriculumYear": "2nd"
+        },
+        {
+            "email": "1308@iit.du.ac.bd",
+            "rollNo": "BSSE-1308",
+            "registrationNo": "1308000000",
+            "batch": "13",
+            "session": "2020-21",
+            "curriculumYear": "2nd"
+        },
+        {
+            "email": "1309@iit.du.ac.bd",
+            "rollNo": "BSSE-1309",
+            "registrationNo": "1309000000",
+            "batch": "13",
+            "session": "2020-21",
+            "curriculumYear": "2nd"
+        },
+        {
+            "email": "1310@iit.du.ac.bd",
+            "rollNo": "BSSE-1310",
+            "registrationNo": "1310000000",
+            "batch": "13",
+            "session": "2020-21",
+            "curriculumYear": "2nd"
+        },
+        {
+            "email": "1311@iit.du.ac.bd",
+            "rollNo": "BSSE-1311",
+            "registrationNo": "1311000000",
+            "batch": "13",
+            "session": "2020-21",
+            "curriculumYear": "2nd"
+        },
+        {
+            "email": "1312@iit.du.ac.bd",
+            "rollNo": "BSSE-1312",
+            "registrationNo": "1312000000",
+            "batch": "13",
+            "session": "2020-21",
+            "curriculumYear": "2nd"
+        },
+        {
+            "email": "1313@iit.du.ac.bd",
+            "rollNo": "BSSE-1313",
+            "registrationNo": "1313000000",
+            "batch": "13",
+            "session": "2020-21",
+            "curriculumYear": "2nd"
+        },
+        {
+            "email": "1314@iit.du.ac.bd",
+            "rollNo": "BSSE-1314",
+            "registrationNo": "1314000000",
+            "batch": "13",
+            "session": "2020-21",
+            "curriculumYear": "2nd"
+        },
+        {
+            "email": "1315@iit.du.ac.bd",
+            "rollNo": "BSSE-1315",
+            "registrationNo": "1315000000",
+            "batch": "13",
+            "session": "2020-21",
+            "curriculumYear": "2nd"
+        },
+        {
+            "email": "1316@iit.du.ac.bd",
+            "rollNo": "BSSE-1316",
+            "registrationNo": "1316000000",
+            "batch": "13",
+            "session": "2020-21",
+            "curriculumYear": "2nd"
+        },
+        {
+            "email": "1317@iit.du.ac.bd",
+            "rollNo": "BSSE-1317",
+            "registrationNo": "1317000000",
+            "batch": "13",
+            "session": "2020-21",
+            "curriculumYear": "2nd"
+        },
+        {
+            "email": "1318@iit.du.ac.bd",
+            "rollNo": "BSSE-1318",
+            "registrationNo": "1318000000",
+            "batch": "13",
+            "session": "2020-21",
+            "curriculumYear": "2nd"
+        },
+        {
+            "email": "1319@iit.du.ac.bd",
+            "rollNo": "BSSE-1319",
+            "registrationNo": "1319000000",
+            "batch": "13",
+            "session": "2020-21",
+            "curriculumYear": "2nd"
+        },
+        {
+            "email": "1320@iit.du.ac.bd",
+            "rollNo": "BSSE-1320",
+            "registrationNo": "1320000000",
+            "batch": "13",
+            "session": "2020-21",
+            "curriculumYear": "2nd"
+        }
+    ]
+}

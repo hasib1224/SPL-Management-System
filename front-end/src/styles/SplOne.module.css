@@ -1,0 +1,19 @@
+.gap td{
+    background-color: rgb(242, 112, 112);
+   
+}
+Table{
+    margin-left: 20px;
+}
+
+
+th{
+    color: rgb(62, 35, 2);
+    font-size: x-large;
+}
+td{
+    
+    color: rgb(0, 0, 0);
+    font-size: large;
+
+}
